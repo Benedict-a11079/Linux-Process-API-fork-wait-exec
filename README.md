@@ -2,7 +2,11 @@
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
+
+
 Name:A.Benedict Fernando 
+
+
 Reg No:212225230030
 
 # AIM:
